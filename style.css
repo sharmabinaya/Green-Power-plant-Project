@@ -1,0 +1,76 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-image: url(....);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.a{
+    color: #2c363f;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.hero-content {
+    margin-top: 4rem;
+}
+.hero-content h1{
+    font-weight: 900;
+    font-size: 3.5rem;
+}
+.hero-content h3{
+    font-weight: 700;
+}
+.social-icon-hero div{
+   color: #3596B5;
+   cursor: pointer;
+   font-size: 25px;
+}
+.social-icon-hero div:hover{
+    color: #2C73D2;
+}
+
+.section-heading{
+    font-weight: 700;
+    font-size: 3.5rem;
+   
+}
+.btn-main{
+    font-size: 1rem;
+    background-color: #569ad6;
+    color: #fafaff;
+    border-radius: 10px;
+    text-transform: capitalize;   
+}
+
+
+
+.service{
+    border-radius: 1rem;
+}
+.section-heading{
+    color: #2C73D2;
+}
+.service h3{
+    font-weight: 700;
+    color: #2C73D2;
+}
+.service i{
+    font-size: 2rem;
+    color:#0089BA;
+}
+
+
+
+.contact input,
+.contact textarea{
+    padding: 1rem 0.4rem;
+    font-size: 1.3rem;
+    width: 100%;
+}
